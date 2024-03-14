@@ -46,7 +46,7 @@ Welcome to the Semantic Segmentation assignment for the Computer Vision course! 
 
 ### Submission
 
-To submit your solution create pull request to the `main` branch.
+To submit your solution commit your files to the `main` branch. 
 
 Ensure your final submission includes:
 * Source code (semantic_segmentation_leaf_disease.py or similar).
